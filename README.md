@@ -11,6 +11,7 @@ O presente projecto, refere-se a um componente loading feito com angular. Um com
 Instalação do Angular 12
 
 code:: node
+    
     npm install -g @angular/cli@12
 
 
