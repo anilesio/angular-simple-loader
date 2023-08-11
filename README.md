@@ -20,6 +20,19 @@ code:: node
     
     npm install -g @angular/cli@12
 
+
+## Chamada do componente
+
+code:: node
+
+    <app-loading [text]="'Carregando'" [show]="true"></app-loading>
+
+| Propriedade               | Tipo                                                                         | Descrição                             |
+| ------------------------- | ---------------------------------------------------------------------------- | ------------------------------------- | 
+| `text`                    | String                                                                       | Mensagem a apresentar no carregamento |                                                                                         
+| `show`                    | Boolean                                                                      | `true` ou `false`                     |                                                                                         
+
+
 <p>O componente está dentro de um módulo <b>shared.module.ts.ts</b>, que por sua vez é instanciado no <b>app.module.ts</b></p>
 
 <p>Por fim, temos o resultado 😎</p>
