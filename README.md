@@ -22,4 +22,3 @@ code:: python
                 ...,
                 'publicApp'
                 )
-              
