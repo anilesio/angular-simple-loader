@@ -20,4 +20,6 @@ code:: node
     
     npm install -g @angular/cli@12
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNtZmo2aDFucmFseW1pYzY4YW5pYnZoOTY1enpyZWc0NXptN3Z3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IjBZbH0aUdQ2YdWWgR/giphy.gif">
+<p aling="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNtZmo2aDFucmFseW1pYzY4YW5pYnZoOTY1enpyZWc0NXptN3Z3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IjBZbH0aUdQ2YdWWgR/giphy.gif" width="100%">
+</p>
