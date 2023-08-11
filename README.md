@@ -1,4 +1,6 @@
-<img src="https://angular.io/assets/images/logos/angular/angular.png" width="100" align="center" >
+<p  aling="center">
+    <img src="https://angular.io/assets/images/logos/angular/angular.png" width="100">
+</p>
 
 
 Angular Simple Loader
