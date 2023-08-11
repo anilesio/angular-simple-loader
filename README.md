@@ -9,7 +9,8 @@ O presente projecto, refere-se a um componente loading feito com angular. Um com
 - NPM 8+
 
 Instalação do Angular 12
-code:: bash
+
+code:: node
     npm install -g @angular/cli@12
 
 
