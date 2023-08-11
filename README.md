@@ -15,13 +15,5 @@ code:: node
     npm install -g @angular/cli@12
 
 
-O projecto Django possui uma única app "publicApp"
 
-Em settings.py :
-
-code:: python
-
-    INSTALLED_APPS = (
-                ...,
-                'publicApp'
-                )
+O projecto possui um módulo
